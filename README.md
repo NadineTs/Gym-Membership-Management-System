@@ -2,7 +2,7 @@
 This Java console-based application simulates a **Gym Membership Management System**, allowing customers to subscribe to various membership types (monthly or yearly), update their information, and receive offers. The system stores user data in files and supports simple input validation.
 
 ## Features
- Register new gym members  
+ - Register new gym members  
 - Choose between **monthly** and **yearly** memberships  
     - **Monthly plan** supports 3 or 6 months (Swimming)  
     - **Yearly plan** includes multiple classes and bonus offers  
@@ -27,4 +27,4 @@ This Java console-based application simulates a **Gym Membership Management Syst
 
 
 # Sample Console Output:
-
+![Image](https://github.com/user-attachments/assets/db89d721-60bc-4d2f-85b2-f973fcf650c1)
