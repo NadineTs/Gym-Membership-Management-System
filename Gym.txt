@@ -1,0 +1,72 @@
+Customer Information: 
+name: hajar
+ID: 1234567890
+Age: 20
+Phone number: 0501234567
+
+ member ID: 1
+ The price of 1 month: 100.0
+ The class is: Swimming
+ the number of months is:3
+ The total price is: 350.0
+
+-------------------------------------------
+Customer Information: 
+name: nadine
+ID: 1122334455
+Age: 19
+Phone number: 0531234567
+
+ member ID: 2
+ The price of 1 month: 100.0
+ The class is: Swimming
+ the number of months is:6
+ The total price is: 650.0
+
+-------------------------------------------
+Customer Information: 
+name: noor
+ID: 1987654320
+Age: 35
+Phone number: 0509876543
+
+ member ID: 3
+ The price of 1 month: 100.0
+The classes are: Swimming and Yoga
+ The total price is: 1300.0
+ The offer is: 20% discount on subscribtion in diet center 
+
+-------------------------------------------
+Customer Information: 
+name: taif
+ID: 1023065498
+Age: 28
+Phone number: 0541234569
+
+ member ID: 4
+ The price of 1 month: 100.0
+The classes are: Swimming and Yoga
+ The total price is: 1300.0
+ The offer is:  Free medical test in java hospital
+
+-------------------------------------------
+Customer Information: 
+name: basma
+ID: 1425367890
+Age: 11
+Phone number: 0598765432
+
+ member ID: 5
+ The price of 1 month: 100.0
+ The class is: Swimming
+ the number of months is:6
+ The total price is: 650.0
+
+-------------------------------------------
+The total number of member = 5
+Gym Member are:
+1- hajar
+2- nadine
+3- noor
+4- taif
+5- basma
